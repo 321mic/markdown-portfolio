@@ -1,1 +1,4 @@
-😄 I like skateboarding 🛹, coding 💻, and watching TV 📺 
+I like... 😄
+- skateboarding 🛹 
+- coding 💻 
+- watching TV 📺 
